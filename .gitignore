@@ -1,5 +1,6 @@
 .coverage
 build/
+virtpython/
 debian/debhelper-build-stamp
 debian/files
 debian/*.log
